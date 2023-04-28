@@ -7,9 +7,9 @@ on:
     inputs:
       # Change this value
       solution_name: test
-        description: 
-        required: true
-        default: ALMLab
+         description: 'test'
+         required: true
+         default: ALMLab
        #Do Not change these values
       solution_exported_folder:
         description: 'folder name for staging the exported solution *do not change*'
